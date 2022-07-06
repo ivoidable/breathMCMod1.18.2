@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "breath:nichirin_sword"
+    },
+    {
+      "item": "breath:freezing_demon_soul"
+    }
+  ],
+  "result": {
+    "item": "breath:ice_nichirin_sword"
+  }
+}

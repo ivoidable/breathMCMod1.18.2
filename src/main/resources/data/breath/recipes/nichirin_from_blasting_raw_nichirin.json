@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 500,
+  "experience": 1000,
+  "ingredient": {
+    "item": "breath:raw_nichirin"
+  },
+  "result": "breath:nichirin"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "breath:nichirin_block"
+    }
+  ],
+  "result": {
+    "item": "breath:nichirin",
+    "count": 9
+  }
+}

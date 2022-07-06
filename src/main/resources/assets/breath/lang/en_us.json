@@ -1,0 +1,35 @@
+{
+  "item.breath.nichirin": "Nichirin",
+  "item.breath.burning_demon_soul": "Burning Demon Soul",
+  "item.breath.freezing_demon_soul": "Freezing Demon Soul",
+  "item.breath.thunder_demon_soul": "Thunder Demon Soul",
+  "item.breath.air_demon_soul": "Air Demon Soul",
+  "item.breath.demon_soul": "Demon Soul",
+  "item.breath.nichirin_shard": "Nichirin Shard",
+  "item.breath.raw_nichirin": "Raw Nichirin",
+
+
+
+  "item.breath.pirate_tunes_music_disc": "Pirate Tunes",
+  "item.breath.pirate_tunes_music_disc.desc": "Klaus Badelt - Pirates of the Caribbean",
+
+
+
+  "item.breath.nichirin_sword": "Nichirin Katana",
+  "item.breath.thunder_nichirin_sword": "Thunder Nichirin Katana",
+  "item.breath.air_nichirin_sword": "Air Nichirin Katana",
+  "item.breath.ice_nichirin_sword": "Ice Nichirin Katana",
+  "item.breath.flame_nichirin_sword": "Flame Nichirin Katana",
+
+
+
+  "block.breath.nichirin_block": "Nichirin Block",
+  "block.breath.nichirin_ore": "Nichirin Ore",
+  "block.breath.deepslate_nichirin_ore": "Deepslate Nichirin Ore",
+  "block.breath.elementifier": "Elementifier",
+
+
+
+  "itemGroup.material_tab": "Breath Material Tab",
+  "itemGroup.tools_tab": "Breath Tool Tab"
+}

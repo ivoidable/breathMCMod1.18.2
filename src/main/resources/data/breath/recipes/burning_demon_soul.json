@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#$#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "breath:nichirin_block"
+    },
+    "$": {
+      "item": "minecraft:flint_and_steel"
+    }
+  },
+  "result": {
+    "item": "breath:burning_demon_soul"
+  }
+}

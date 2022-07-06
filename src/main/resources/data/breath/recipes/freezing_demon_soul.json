@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#$#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "breath:nichirin_block"
+    },
+    "$": {
+      "item": "minecraft:packed_ice"
+    }
+  },
+  "result": {
+    "item": "breath:freezing_demon_soul"
+  }
+}

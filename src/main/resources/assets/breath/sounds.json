@@ -1,0 +1,10 @@
+{
+  "pirates_of_the_caribbean": {
+    "sounds": [
+      {
+        "name": "breath:pirates_of_the_caribbean",
+        "stream": true
+      }
+    ]
+  }
+}

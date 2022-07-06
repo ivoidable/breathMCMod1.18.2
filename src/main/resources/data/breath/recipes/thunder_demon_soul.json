@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#$#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "breath:nichirin_block"
+    },
+    "$": {
+      "item": "minecraft:lightning_rod"
+    }
+  },
+  "result": {
+    "item": "breath:thunder_demon_soul"
+  }
+}

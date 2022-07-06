@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "breath:item/flame_nichirin_sword"
+  }
+}
